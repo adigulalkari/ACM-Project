@@ -1,5 +1,4 @@
-# ACM-Project
-Hey I am Adi Gulalkari I am studying Computer Science with sp. in Data Science. I have started webdev recently and have found great fun doing it. 
+# Expense Calculator 
 
 Project Discription: <br>
 This project helps you to keep the tabs on your income and expenses. You will be able to see the balance amount after every expenditure.
